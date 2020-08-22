@@ -1,6 +1,6 @@
 # Estudando-JS
 
-## O prazer de estudar uma nova tecnologia que pode ser usar em tudo lugar esse é o JS
+## O prazer de estudar uma nova tecnologia
 ## Aprendendo na https://www.origamid.com/
 
 ### JavaScript Para iniciantes
