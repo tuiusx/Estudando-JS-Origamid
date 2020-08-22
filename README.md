@@ -1,7 +1,7 @@
 # Estudando-JS
 
 ## O prazer de estudar uma nova tecnologia
-## Aprendendo na https://www.origamid.com/
+## Estudando na [Origamid](https://www.origamid.com/)
 
 ### JavaScript Para iniciantes
 - [x] Variáveis
