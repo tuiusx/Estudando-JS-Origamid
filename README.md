@@ -11,5 +11,5 @@
 - [x] Funções
 - [x] Objetos
 - [x] Arrays e Loops
-- [] Atribuição e Ternário
-- [] Escopo
+- [ ] Atribuição e Ternário
+- [ ] Escopo
