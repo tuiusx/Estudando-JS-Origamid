@@ -11,5 +11,19 @@
 - [x] Funções
 - [x] Objetos
 - [x] Arrays e Loops
-- [ ] Atribuição e Ternário
-- [ ] Escopo
+- [x] Atribuição e Ternário
+- [x] Escopo
+
+### JavaScript Dom Para iniciantes
+
+- [ ] HTML e CSS  
+- [ ] Seleção de elementos
+- [ ] forEach e Arrow Function
+- [ ] Classes e Atributos
+- [ ] Dimensões e Distâncias
+- [ ] Eventos
+- [ ] Transversing e Manipulação
+- [ ] Navegação por Tabs
+- [ ] Accordion List
+- [ ] Scroll Suave Link Interno
+- [ ] Animação ao Scroll
