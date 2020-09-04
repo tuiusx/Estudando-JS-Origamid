@@ -1,7 +1,6 @@
 # Estudando-JS
 
-## O prazer de estudar uma nova tecnologia
-## Estudando na [Origamid](https://www.origamid.com/)
+## <p>O prazer de estudar uma nova tecnologia na [Origamid](https://www.origamid.com/)
 
 ### JavaScript Para iniciantes
 - [x] Variáveis
@@ -15,7 +14,7 @@
 - [x] Escopo
 
 ### JavaScript Dom Para iniciantes
-
+- [x] O que é DOM  
 - [ ] HTML e CSS  
 - [ ] Seleção de elementos
 - [ ] forEach e Arrow Function
