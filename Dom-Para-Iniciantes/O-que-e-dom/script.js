@@ -15,3 +15,13 @@ alert('Isso também é um alerta');
 
 const h1Selecionado = document.querySelector('h1'); //Seleciona p primeiro h1
 document.body; //retorna o body
+
+h1Selecionado.innerHeight; // retorna o texto;
+h1Selecionado.classList; // retorna as classes 
+h1Selecionado.id; // retorna o id
+h1Selecionado.offsetHeight; // retorna a altur do elemento;
+
+//ativa a função callback ao click no titulo
+h1Selecionado.addEventListener('click', function() {
+  console.log('Clicou em', h1Selecionado.innerText);
+});
